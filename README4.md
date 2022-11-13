@@ -23,6 +23,8 @@ con uma descripçaõ opcional, colocar público para compartilhar.
 - git status
 - git add .
 - depois git status
+- git commit -m "comentario"
+- git remote add gitaula httes://github.com/seu usuario/seu repositorio git
 - 
 
 
